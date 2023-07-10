@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ 
+body{
+     text-align: center;
+    justify-content: center;
+}
+
+h1{
+    padding: 4%;
+}
+ input{
+    height:70px ;
+    width: 70px;
+    padding: 0;
+    border: none;
+    outline: none;
+    background-color: transparent;
+ }
+ 
+ .color1::-webkit-color-swatch,
+ .color2::-webkit-color-swatch
+ {
+    border-radius: 50%;
+    border: 2px solid black;
+ }
